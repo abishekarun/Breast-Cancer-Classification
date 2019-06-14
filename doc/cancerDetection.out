@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 2
+\BOOKMARK [1][-]{section.3}{Methods}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{The Dataset}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Supervised Learning Classifiers}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Unsupervised Dimension Reduction Techniques}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Experiments and Evaluation}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Supervised Learning Classifier Comparison}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Unsupervised Dimension Reduction Visualization}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Discussion and Future Work}{}% 10
