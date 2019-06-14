@@ -2,7 +2,7 @@
 
 This project was done for the CPSC 532M course at UBC. In this project, we target the task of breast tissue tumour classification and compare the performance of several supervised learning classifiers on cancer detection. We also explore unsupervised dimension reduction techniques to visualize the dataset and search for distinguishable clustering.
 
-Data retreived from [https://www.kaggle.com/uciml/breast-cancer-wisconsin-data](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) and [https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra). The paper submitted for the course can be found [here](https://github.com/abishekarun/Breast-Cancer-Classification/blob/master/doc/cancerDetection.pdf).
+Data retreived from [Kaggle](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) and [UCI repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra). The paper submitted for the course can be found [here](https://github.com/abishekarun/Breast-Cancer-Classification/blob/master/doc/cancerDetection.pdf).
 
 The resources that helped me are:
 
